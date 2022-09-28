@@ -1,4 +1,4 @@
-# TascaS4.01-Spring
+# TascaS4.01-Nivell1-Spring
 
 - Exercici Spring i Maven
 Aquest exercici és un primer contacte amb Spring i Maven.
